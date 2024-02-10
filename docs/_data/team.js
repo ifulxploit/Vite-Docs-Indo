@@ -28,7 +28,7 @@ export const core = [
   {
     avatar: 'https://www.github.com/antfu.png',
     name: 'Anthony Fu',
-    title: 'Seorang open source yang fanat',
+    title: 'Seorang open source yang fanatik',
     org: 'NuxtLabs',
     orgLink: 'https://nuxtlabs.com/',
     desc: 'Anggota tim inti Vite & Vue. Bekerja di NuxtLabs.',
