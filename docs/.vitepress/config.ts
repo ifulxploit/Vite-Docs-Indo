@@ -99,6 +99,7 @@ export default defineConfig({
     pt: { label: 'Português', link: 'https://pt.vitejs.dev' },
     ko: { label: '한국어', link: 'https://ko.vitejs.dev' },
     de: { label: 'Deutsch', link: 'https://de.vitejs.dev' },
+    id: { label: 'Indonesia', link: 'https://id.vitejs.dev' },
   },
 
   themeConfig: {
